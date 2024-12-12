@@ -1,0 +1,122 @@
+Similarity Results:
+--------------------------------------------------
+Rank 1:
+  Chunk ID: chunk_018
+  Similarity Score: 0.9970
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_018.pt
+--------------------------------------------------
+Rank 2:
+  Chunk ID: chunk_000
+  Similarity Score: 0.9960
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_000.pt
+--------------------------------------------------
+Rank 3:
+  Chunk ID: chunk_036
+  Similarity Score: 0.9955
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_036.pt
+--------------------------------------------------
+Rank 4:
+  Chunk ID: chunk_059
+  Similarity Score: 0.9954
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_059.pt
+--------------------------------------------------
+Rank 5:
+  Chunk ID: chunk_004
+  Similarity Score: 0.9951
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_004.pt
+--------------------------------------------------
+Rank 6:
+  Chunk ID: chunk_006
+  Similarity Score: 0.9951
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_006.pt
+--------------------------------------------------
+Rank 7:
+  Chunk ID: chunk_050
+  Similarity Score: 0.9950
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_050.pt
+--------------------------------------------------
+Rank 8:
+  Chunk ID: chunk_060
+  Similarity Score: 0.9949
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_060.pt
+--------------------------------------------------
+Rank 9:
+  Chunk ID: chunk_057
+  Similarity Score: 0.9948
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_057.pt
+--------------------------------------------------
+Rank 10:
+  Chunk ID: chunk_020
+  Similarity Score: 0.9946
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_020.pt
+--------------------------------------------------
+Rank 11:
+  Chunk ID: chunk_044
+  Similarity Score: 0.9946
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_044.pt
+--------------------------------------------------
+Rank 12:
+  Chunk ID: chunk_029
+  Similarity Score: 0.9945
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_029.pt
+--------------------------------------------------
+Rank 13:
+  Chunk ID: chunk_037
+  Similarity Score: 0.9945
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_037.pt
+--------------------------------------------------
+Rank 14:
+  Chunk ID: chunk_051
+  Similarity Score: 0.9945
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_051.pt
+--------------------------------------------------
+Rank 15:
+  Chunk ID: chunk_055
+  Similarity Score: 0.9942
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_055.pt
+--------------------------------------------------
+Rank 16:
+  Chunk ID: chunk_042
+  Similarity Score: 0.9942
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_042.pt
+--------------------------------------------------
+Rank 17:
+  Chunk ID: chunk_043
+  Similarity Score: 0.9941
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_043.pt
+--------------------------------------------------
+Rank 18:
+  Chunk ID: chunk_021
+  Similarity Score: 0.9940
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_021.pt
+--------------------------------------------------
+Rank 19:
+  Chunk ID: chunk_052
+  Similarity Score: 0.9940
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_052.pt
+--------------------------------------------------
+Rank 20:
+  Chunk ID: chunk_003
+  Similarity Score: 0.9938
+  Time Range: 0.00s - 0.00s
+  Embedding: /mnt/data/ashwin/SpeechRAG/libriSQA/embeddings/chunks_embedding/chunk_003.pt
+--------------------------------------------------
